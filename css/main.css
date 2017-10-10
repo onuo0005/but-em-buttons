@@ -35,13 +35,13 @@ a:hover {
 }
 
 a:active {
-  border-radius: 7px;
+  top: 40px;
 }
 
 a:focus {
-  left: 40px;
+  border-color: rgba(180, 255, 244, .2);
 }
 
 .btn-ghost {
-  transition: all .3s linear;
+  transition: all .2s linear;
 }
